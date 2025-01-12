@@ -14,6 +14,8 @@ labels = labels_csv['breed']
 labels = np.array(labels)
 unique_labels = np.unique(labels)
 
+unique_labels = [' '.join([word.capitalize() for word in label.split('_')]) for label in unique_labels]
+
 ### 2. Model and transforms preparation ###
 model, model_transforms = create_model(num_classes=len(unique_labels))
 model = torch.compile(model)
