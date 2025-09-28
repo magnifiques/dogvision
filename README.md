@@ -218,8 +218,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Created with 🤎 (and a mixture of mathematics, statistics, and tons of calculations 👩🏽‍🔬) by **Arpit Vaghela**
 
 - GitHub: [@magnifiques](https://github.com/magnifiques)
-- Demo: [DogVision on HF Spaces](https://huggingface.co/spaces/YOUR_USERNAME/dogvision)
-
----
-
-**🐶 DogVision - Every dog deserves to be recognized!**
+- Demo: [DogVision on HF Spaces](https://huggingface.co/spaces/vapit/dogvision)
